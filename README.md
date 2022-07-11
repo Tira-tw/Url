@@ -10,8 +10,12 @@
 > 需要先[fork](https://github.com/Tira-tw/Url/fork) , 然後到CNAME檔案更改你要用的網域 , 然後到404.html檔案第12行更改 : <br>
 ```
  var GITHUB_ISSUES_LINK =
-        "https://api.github.com/repos/Github用戶名稱/作品名字/issues/";
+        "https://api.github.com/repos/Tira-tw/Url/issues/";
       var PATH_SEGMENTS_TO_SKIP = 0;
+```
+請自行修改: 
+```
+https://api.github.com/repos/用戶名稱/Repository名稱/issues/ 
 ```
 > 更改完之後到Settings > Pages > Custom domain驗證 , 跳出有關DNS需要去[cloudflare.com](https://www.cloudflare.com/)設定DNS! <br>
 ```
