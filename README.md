@@ -3,7 +3,7 @@
 > 這是一個非常簡單的短連結 , 在[Issues](https://github.com/Tira-tw/Url/issues)創建[New issue](https://github.com/Tira-tw/Url/issues/new/choose) , 標題打上網址上傳就可以了!
 <br>
 > 請依照問題編碼使用!<br>
-> 比如說 : #1問題編碼 >> "http://surl.thisalesa.eu.org/#1" , 這樣就可以了! <br>
+> 比如說 : #1問題編碼 >> "http://url.thisalesa.eu.org/#1" , 這樣就可以了! <br>
 
 # 想架設 , 要如何設定?
 
